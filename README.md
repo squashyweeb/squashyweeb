@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">I'm trying to learn</p>
+<p align="left">I'm trying to learn.</p>
 
 ###
 

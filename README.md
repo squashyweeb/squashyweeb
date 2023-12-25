@@ -29,12 +29,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/squashyweeb/squashyweeb/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/squashyweeb/count.svg?"  />
 </div>

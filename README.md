@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Ryan and I'm from the USA. I'm 16, A front and back end dev.</h2>
-<h2 align="left"> ( full stack ) </h2>
+
 
 ###
 

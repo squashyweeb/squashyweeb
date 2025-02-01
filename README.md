@@ -1,5 +1,3 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=panic.atethikha&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=panic.atethikha&redirect=true)
-
 <h2 align="left">Hi 👋! My name is Ryan and I'm from the USA. I'm 17, A front and back end dev.</h2>
 
 ###
@@ -44,3 +42,5 @@
 </div>
 
 ###
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=panic.atethikha&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=panic.atethikha&redirect=true)

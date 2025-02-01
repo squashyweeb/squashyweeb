@@ -43,4 +43,6 @@
 
 ###
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=panic.atethikha&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=panic.atethikha&redirect=true)
+<div align="center">
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=panic.atethikha&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=panic.atethikha&redirect=true)
+</div>

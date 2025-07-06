@@ -2,11 +2,11 @@
 
 # Hi there, I'm Ryan! 👋
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph" />
+<a href="https://github.com/squashyweeb">
+  <img src="https://github-readme-stats.vercel.app/api?username=squashyweeb&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph" />
 </a>
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
+<a href="https://github.com/squashyweeb">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=squashyweeb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
 </a>
 
 </div>
@@ -76,5 +76,5 @@ I'm always open to connecting with other developers, students, and creators. Fin
 </details>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg?" />
+  <img src="https://profile-counter.glitch.me/squashyweeb/count.svg?" />
 </div>

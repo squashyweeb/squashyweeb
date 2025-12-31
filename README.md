@@ -11,7 +11,7 @@
 
 </div>
 
-I'm a 17-year-old Full Stack Developer from the USA with a passion for building innovative and efficient web applications. I enjoy tackling problems, learning new technologies, and bringing ideas to life with code.
+I'm a 18-year-old Full Stack Developer from the USA with a passion for building innovative and efficient web applications. I enjoy tackling problems, learning new technologies, and bringing ideas to life with code.
 
 ---
 

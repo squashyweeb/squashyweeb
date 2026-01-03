@@ -89,7 +89,3 @@ I'm always open to connecting with other developers, students, and creators. Fin
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=panic.atethikha&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Profile Embed" width="350" />
   </a>
 </details>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/squashyweeb/count.svg?" />
-</div>

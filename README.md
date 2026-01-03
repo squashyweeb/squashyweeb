@@ -3,10 +3,10 @@
 # Hi there, I'm Ryan! 👋
 
 <a href="https://github.com/squashyweeb">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=squashyweeb&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-six-iota-61.vercel.app/api?username=squashyweeb&theme=dracula&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" height="150" alt="stats graph" />
 </a>
 <a href="https://github.com/squashyweeb">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=squashyweeb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-six-iota-61.vercel.app/api/top-langs?username=squashyweeb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&cache_seconds=1800" height="150" alt="languages graph" />
 </a>
 
 </div>

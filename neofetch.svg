@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">
+  <rect width="720" height="300" rx="8" fill="#0d1117"/>
+  <circle cx="18" cy="18" r="6" fill="#ff5f56"/><circle cx="38" cy="18" r="6" fill="#ffbd2e"/><circle cx="58" cy="18" r="6" fill="#27c93f"/>
+  <text x="20" y="70" fill="#8b949e">
+    <tspan x="20" dy="0" fill="#39ff14">ryan@re ~ $ neofetch</tspan>
+    <tspan x="20" dy="28" fill="#39ff14">OS         </tspan><tspan fill="#c9d1d9">Jailbroken iOS 18.5 (Dopamine) + Win11</tspan>
+    <tspan x="20" dy="20" fill="#39ff14">Tools      </tspan><tspan fill="#c9d1d9">Frida 17, Charles, IDA 9, Ghidra, ipsw</tspan>
+    <tspan x="20" dy="20" fill="#39ff14">Domain     </tspan><tspan fill="#c9d1d9">Mobile RE, protocol analysis, anti-bot research</tspan>
+    <tspan x="20" dy="20" fill="#39ff14">Focus      </tspan><tspan fill="#c9d1d9">iOS Mach-O / arm64, headful browser automation, slot math</tspan>
+    <tspan x="20" dy="20" fill="#39ff14">Public     </tspan><tspan fill="#c9d1d9">claude-launcher</tspan>
+    <tspan x="20" dy="28" fill="#39ff14">ryan@re ~ $ <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>_</tspan>
+  </text>
+</svg>

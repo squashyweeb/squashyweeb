@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">
+  <rect width="720" height="260" rx="8" fill="#0d1117"/>
+  <circle cx="18" cy="18" r="6" fill="#ff5f56"/><circle cx="38" cy="18" r="6" fill="#ffbd2e"/><circle cx="58" cy="18" r="6" fill="#27c93f"/>
+  <text x="20" y="60" fill="#c9d1d9">
+    <tspan x="20" dy="0" fill="#39ff14">ryan@re ~ $ tree -L 1 work/</tspan>
+    <tspan x="20" dy="24" fill="#58a6ff">work/</tspan>
+    <tspan x="20" dy="22">├── </tspan><tspan fill="#58a6ff">mobile-re/</tspan><tspan>        </tspan><tspan fill="#6e7681"># Mach-O arm64 · Frida · IDA · Ghidra · ipsw</tspan>
+    <tspan x="20" dy="20">├── </tspan><tspan fill="#58a6ff">protocols/</tspan><tspan>        </tspan><tspan fill="#6e7681"># Charles MITM · HAR · OAuth / MSAL · SRP · XTEA · UDP</tspan>
+    <tspan x="20" dy="20">├── </tspan><tspan fill="#58a6ff">browser-auto/</tspan><tspan>     </tspan><tspan fill="#6e7681"># patchright · headful Chrome · persistent profiles</tspan>
+    <tspan x="20" dy="20">├── </tspan><tspan fill="#58a6ff">slot-math/</tspan><tspan>        </tspan><tspan fill="#6e7681"># Books · lookUpTable · Monte Carlo · RTP calibration</tspan>
+    <tspan x="20" dy="20">└── </tspan><tspan fill="#58a6ff">tooling/</tspan><tspan>          </tspan><tspan fill="#6e7681"># Electron · PowerShell + WPF · Windows DPAPI</tspan>
+    <tspan x="20" dy="28" fill="#8b949e">5 directories</tspan>
+    <tspan x="20" dy="24" fill="#39ff14">ryan@re ~ $ <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>_</tspan>
+  </text>
+</svg>
